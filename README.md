@@ -13,5 +13,3 @@ Rock  	Paper  	Scissors
 Player 1  	Rock	0	-1	1
 Paper	1	0	-1
 Scissors  	-1	1	0
-The computer's programmed strategies behaved very differently. In the first strategy, the computer chose its first four moves randomly and then cycled through these moves for the rest of the game. If you were able to discover this strategy, it was easy to exploit it to continually beat the computer. This illustrates the pitfalls of a determined strategy. Often, an opponent who discovers your strategy can easily beat you. In the second strategy, the computer simply chose randomly with an equal probability for each object. Even if you could tell that this was the computer's strategy, there was no way for you to use this to beat the computer consistently.
-
